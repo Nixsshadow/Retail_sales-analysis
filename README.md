@@ -34,6 +34,10 @@ This project analyzes retail sales data to identify patterns in sales, profitabi
 - `Retailsales.ipynb` — Exploratory data analysis notebook
 - `retail_sales_clean (2).csv` — Cleaned dataset
 
+## Presentation
+[View Canva presentation]
+(https://canva.link/u9qb7h7zr494pl5)
+
 ## Conclusion
 
 The project demonstrates how raw retail data can be transformed into useful business insights using Python-based data analysis and Tableau visualization.
